@@ -1,1 +1,1 @@
-Representações utilizando matplolib. seaborn e pandas
+Representações utilizando matplolib, seaborn e pandas
